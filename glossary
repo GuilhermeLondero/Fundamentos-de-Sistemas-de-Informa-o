@@ -1,3 +1,13 @@
-Push - Enviar a versão atualizada para o servidor.
-git add
-Pull - Download de versão mais atualizada de código.
+Push - Enviar a versão atualizada para o servidor.  
+Pull - Baixar a versão mais atualizada do código.  
+Git Add - Adiciona arquivos ao "estágio" antes de fazer o commit.  
+Commit - Confirma e registra as alterações no histórico do repositório.  
+Branch - Uma "ramificação" do código para desenvolver novas funcionalidades sem alterar a versão principal.  
+Merge - Junta uma branch com outra, combinando as alterações.  
+Fork - Cópia de um repositório para um perfil pessoal, permitindo modificações sem afetar o original.  
+Clone - Baixa uma cópia exata do repositório remoto para a máquina local.  
+Revert - Desfaz um commit específico sem apagar o histórico.  
+Rebase - Reorganiza commits para manter um histórico mais linear.  
+Stash - Guarda temporariamente mudanças não commitadas para limpar o ambiente de trabalho.  
+Pull Request - Pedido para mesclar mudanças feitas em uma branch no repositório principal.  
+HEAD - Referência para o último commit da branch atual.
