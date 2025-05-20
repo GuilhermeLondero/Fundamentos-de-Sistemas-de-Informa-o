@@ -1,13 +1,32 @@
-Push - Enviar a versão atualizada para o servidor.  
-Pull - Baixar a versão mais atualizada do código.  
-Git Add - Adiciona arquivos ao "estágio" antes de fazer o commit.  
-Commit - Confirma e registra as alterações no histórico do repositório.  
-Branch - Uma "ramificação" do código para desenvolver novas funcionalidades sem alterar a versão principal.  
-Merge - Junta uma branch com outra, combinando as alterações.  
-Fork - Cópia de um repositório para um perfil pessoal, permitindo modificações sem afetar o original.  
-Clone - Baixa uma cópia exata do repositório remoto para a máquina local.  
-Revert - Desfaz um commit específico sem apagar o histórico.  
-Rebase - Reorganiza commits para manter um histórico mais linear.  
-Stash - Guarda temporariamente mudanças não commitadas para limpar o ambiente de trabalho.  
-Pull Request - Pedido para mesclar mudanças feitas em uma branch no repositório principal.  
+Push - Enviar a versão atualizada para o servidor.
+Pull - Baixar a versão mais atualizada do código.
+Git Add - Adiciona arquivos ao "estágio" antes de fazer o commit.
+Commit - Confirma e registra as alterações no histórico do repositório.
+Branch - Uma "ramificação" do código para desenvolver novas funcionalidades sem alterar a versão principal.
+Merge - Junta uma branch com outra, combinando as alterações.
+Fork - Cópia de um repositório para um perfil pessoal, permitindo modificações sem afetar o original.
+Clone - Baixa uma cópia exata do repositório remoto para a máquina local.
+Revert - Desfaz um commit específico sem apagar o histórico.
+Rebase - Reorganiza commits para manter um histórico mais linear.
+Stash - Guarda temporariamente mudanças não commitadas para limpar o ambiente de trabalho.
+Pull Request - Pedido para mesclar mudanças feitas em uma branch no repositório principal.
 HEAD - Referência para o último commit da branch atual.
+SIG - Ferramentas que auxiliam na tomada de decisões estratégicas e operacionais dentro de uma organização.
+SAD - Sistema que analisa dados para ajudar na decisão de gestores, muitas vezes lidando com grandes volumes de informações.
+Sistema de Processamento de Transações (SPT - Sistema que gerencia transações empresariais diárias, como vendas, compras e inventário.
+Sistemas de Apoio aos Executivos (SAE - Ferramentas voltadas para ajudar a alta gestão na análise de dados e formulação de estratégias.
+IaaS - Modelo de computação em nuvem onde os usuários alugam infraestrutura de TI, como servidores e armazenamento.
+PaaS - Oferece uma plataforma de desenvolvimento e deployment de aplicativos sem a necessidade de gerenciar a infraestrutura subjacente.
+SaaS - Modelos de software em nuvem acessíveis via internet, com manutenção e atualização centralizadas.
+Modelo TCP/IP - onjunto de protocolos de comunicação usado para interconectar dispositivos na internet.
+Cliente-servidor - Arquitetura de rede onde um computador (servidor) fornece serviços ou recursos a outros (clientes).
+Ponto-a-ponto - Arquitetura onde todos os dispositivos têm funções iguais e podem enviar e receber dados diretamente entre si.
+Criptografia - Técnica usada para codificar informações, garantindo que só usuários autorizados possam acessá-las.
+Criptografia Simétrica - Método de criptografia onde a mesma chave é usada para criptografar e descriptografar os dados.
+Criptografia Assimétrica - Utiliza um par de chaves (pública e privada) para criptografar e descriptografar dados.
+Certificação Digital - Tecnologia que autentica a identidade de um usuário ou organização na internet, garantindo a segurança nas comunicações.
+LGPD - Lei Brasileira que regulamenta o uso de dados pessoais, visando proteger a privacidade de indivíduos.
+Direitos Autorais - Proteção legal dada a autores para controlar o uso de suas obras criativas, como textos, músicas e software.
+Licenças de Software - Contrato que define como um software pode ser utilizado, alterado ou distribuído.
+ERP - Sistema integrado que gerencia processos e informações em diversas áreas de uma organização.
+CRM - Sistema para gerenciar o relacionamento com clientes, otimizando interações e estratégias de fidelização.
