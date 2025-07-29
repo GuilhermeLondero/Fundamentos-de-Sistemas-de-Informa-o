@@ -17,10 +17,18 @@ int main() {
         for (int j = 0; j <= posicaoUltimoNumero; j++){
             if (numero == vetor[j]){
                 jaInserido = 1;
-                printf("Numero repetido gerado...")
+                printf("Numero repetido gerado...\n");
+                break;
             }
         }
+        if (jaInserido == 0){
+            vetor[posicaoUltimoNumero] = numero;
+            posicaoUltimoNumero++;
+        }
     }
-
-    return 0;
+    for (int i = 0; i < posicaoUltimoNumero; i++){
+        printf("%d\t", vetor[i]);
+    }
+    printf("\n");
+    return 1;
 }
